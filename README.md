@@ -1,9 +1,2 @@
-# coe1c4d31adfcf48b7ec1a751
-
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
+#Using javascript I created a twitter modal like keeping comments and adding like and rendering it into web page 
 
